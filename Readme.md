@@ -6,6 +6,7 @@
 ## 傻瓜版使用说明
 1. 点击本页面右上方`Clone or download`选择`Download zip`下载并解压
 1. 下载`Fiddler`并安装:<https://www.telerik.com/download/fiddler>
+2. 关闭所有代理软件
 2. 打开`Fiddler`，选择`AutoResponder`
 
     ![1](https://github.com/MXWXZ/Net-Learning-Fucker/raw/master/img/1.png)
