@@ -1,5 +1,5 @@
 # Net-Learning Fucker
-![License][1]
+![License](https://img.shields.io/badge/License-GPL--3.0-yellow.svg)
 
 **本文仅供学习研究使用，请勿用于非法用途，由此造成的一切后果自行承担。**
 
@@ -28,6 +28,3 @@
 8. 打开学习网页，选择`公网2`线路，点一下开始
 9. 好了，学习完了，下一课。
 10. 如果闲的蛋疼可以在**学习完毕后**拖动滑动条欣赏视频2333333333。
-
-
-[1]:https://img.shields.io/badge/License-GPL--3.0-yellow.svg
