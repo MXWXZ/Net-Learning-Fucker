@@ -6,7 +6,7 @@
 ## 傻瓜版使用说明
 1. 点击本页面右上方`Clone or download`选择`Download zip`下载并解压
 1. 下载`Fiddler`并安装:<https://www.telerik.com/download/fiddler>
-2. 关闭所有代理软件
+2. 关闭所有代理软件和浏览器代理插件
 2. 打开`Fiddler`，选择`tools`-`options`菜单，切换到`https`选项卡，把那个没打的勾打上，一路选“是”就行，然后点`OK`
 3. 选择`AutoResponder`
 
