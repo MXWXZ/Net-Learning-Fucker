@@ -7,7 +7,8 @@
 1. 点击本页面右上方`Clone or download`选择`Download zip`下载并解压
 1. 下载`Fiddler`并安装:<https://www.telerik.com/download/fiddler>
 2. 关闭所有代理软件
-2. 打开`Fiddler`，选择`AutoResponder`
+2. 打开`Fiddler`，选择`tools`-`options`菜单，切换到`https`选项卡，把那个没打的勾打上，一路选“是”就行，然后点`OK`
+3. 选择`AutoResponder`
 
     ![1](https://github.com/MXWXZ/Net-Learning-Fucker/raw/master/img/1.png)
 
@@ -18,7 +19,7 @@
 
 5. 第二行选择下拉列表-`Find a file`，定位到你第一步的解压目录，选择`lbwnb.txt`这个文件
 6. 点击旁边的`save`
-7. 点击上方`Enable rules`
+7. 点击上方`Enable rules`和旁边的`Unmatched requestspassthrough`
 
     ![2](https://github.com/MXWXZ/Net-Learning-Fucker/raw/master/img/2.png)
 
